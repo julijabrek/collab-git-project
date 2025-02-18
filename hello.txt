@@ -1,0 +1,5 @@
+Person A
+Create a new branch named "feature-hello"
+Create a new file hello.txt and add some text to it
+Stage and commit the changes
+Push the branch to GitHub
